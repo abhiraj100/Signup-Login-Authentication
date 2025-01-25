@@ -25,7 +25,7 @@ const Home = () => {
     const fetchProducts = async () => {
         try {
             // const url = "http://localhost:4000/products";
-            const url = "https://signup-login-authenitcation-api.vercel.app/products";
+            const url = "https://signup-login-authentication-api.vercel.app/products";
 
             const headers = {
                 headers: {
